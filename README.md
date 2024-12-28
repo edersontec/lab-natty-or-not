@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Podcast: Como os programadores podem utilizar IAs em seus projetos
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## 🎯 Objetivo
+Projeto resultado de um exercício proposto no bootcamp 'CAIXA - IA Generativa com Microsoft Copilot' feito em Dezembro de 2024. O objetivo é utilizar IAs Generativas para criar algum conteúdo que seja o mais realista possível.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste podcast de 2 minutos a programadora virtual Yara mostra como os programadores podem usar a inteligência artificial para melhorar sua produtividade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/): criação do conteúdo em texto.
+- [Hour One](https://hourone.ai/): conversão de texto para voz sintetizada (Text-to-Speech).
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o "ChatGPT" para escrever o roteiro do podcast com introdução, desenvolvimento e fim. Em seguida, a ferramenta "Hour One" foi utilizada para converter o texto em voz sintetizada, trazendo uma voz mais natural para o podcast.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O episódio deste podcast mostrou algumas vantagens que desenvolvedores podem se beneficiar ao adotar IAs Generativas no seu trabalho com programação.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[LINK PARA O PODCAST AQUI](exercicio-final/2-audio-podcast.mp3)
 
-### Exemplos e Insigths
+## 💭 Reflexão
+- Este projeto foi uma experiência importante para mostrar o que as IAs Generativas podem fazer com poucos cliques.
+- É importar citar que, ao utilizar as IAs, é fato que elas não irão substituir o ser humano, visto que a IA "recria de forma algorítmica" apenas o que já foi pré-concebido por humanos. As IAs serão um auxiliar que proverão mais produtividade nos setores aonde forem alocadas.
+- Penso que caberá as IAs gerar uma "peça" do quebra-cabeça e o ser humano encontrar a forma de "encaixar esta peça no quebra-cabeça".
+- Ferramentas de IAs que atuam com imagens e vídeos tem preços mais elevados em relação a IAs que atuam apenas com texto. Penso que tal fato se deve ao maior processamento gasto em imagens e vídeos em relação a textos.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+#LabDIONattyOrNot
